@@ -1,0 +1,9 @@
+styleguide: sourcelevel/linters
+engines:
+  fixme:
+    enabled: true
+  remark-lint:
+    enabled: true
+exclude_paths: []
+pull_requests:
+  enabled: true
